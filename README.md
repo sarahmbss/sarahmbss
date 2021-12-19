@@ -24,6 +24,7 @@ Hi there! I'm Sarah, and I'm currently working as a Data Scientist Intern :)
 - Logistic regression
 - Factorial analysis
 - Chatbot development
+- SQL
   
   ##
   
