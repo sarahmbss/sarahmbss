@@ -12,7 +12,7 @@
 Hi there! I'm Sarah, and I'm currently working as a Data Scientist Intern :)
 
 - Studying Information Management at UFU (Universidade Federal de Uberlândia)
-- Advanced English
+- Intermediate English
 - Love reading books and listening to music
 
 ##
