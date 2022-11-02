@@ -9,7 +9,7 @@
   
 ### 💫 About me
 
-Hi there! I'm Sarah, and I'm currently working as a Data Scientist Intern :)
+Hi there! I'm Sarah, and I'm currently working as a Data Analyst :)
 
 - Studying Information Management at UFU (Universidade Federal de Uberlândia)
 - Intermediate English
@@ -19,11 +19,11 @@ Hi there! I'm Sarah, and I'm currently working as a Data Scientist Intern :)
 
 ### ⭐ Previous experiences
 
-- Time series models
-- Clustering 
-- Logistic regression
-- Factorial analysis
-- SQL
+- MySQL and SQL Server
+- Python
+- Google Cloud Platform
+- Chatbot development
+- Pentaho
   
   ##
   
