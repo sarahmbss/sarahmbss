@@ -7,15 +7,6 @@
   
   ##
   
-### 💫 About me
-
-Hi there! I'm Sarah, and I'm currently working as a Data Analyst :)
-
-- Studying Information Management at UFU (Universidade Federal de Uberlândia)
-- Intermediate English
-- Love reading books and listening to music
-
-##
 
 ### ⭐ Previous experiences
 
@@ -23,7 +14,6 @@ Hi there! I'm Sarah, and I'm currently working as a Data Analyst :)
 - Python
 - Google Cloud Platform
 - Chatbot development
-- Pentaho
   
   ##
   
