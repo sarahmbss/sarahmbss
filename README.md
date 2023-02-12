@@ -13,7 +13,8 @@
 - MySQL and SQL Server
 - Python
 - Google Cloud Platform
-- Chatbot development
+- Apache Airflow
+- Pentaho
   
   ##
   
