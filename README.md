@@ -1,20 +1,30 @@
-## ✨ Welcome! ✨
+## hi there! ✨
 
-<div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=sarahmbss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmbss&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  ##
-  
+i'm sarah, a technology enthusiast graduated on information management.
 
-### ⭐ Previous experiences
+- 🔎 my career on IT started with an intership on **data science**
+- ⚙ later, i changed the focus a little bit and started working as a **data engineer**
+- 📌 now, i'm currently working as a **system analyst**
+- 🌱 skills i've been improving:  **clean code**, **google cloud platform**, **kubernetes**, **apache airflow**
+- 📫 how to reach me **https://www.linkedin.com/in/sarah-maria/**
 
-- MySQL and SQL Server
-- Python
-- Google Cloud Platform
-- Apache Airflow
-- Pentaho
+### main skills
+<p>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
+  <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg">
+  <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg">
+  <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+  <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg">
+  <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg">
+  <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
+  <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+  <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
+</p>
   
   ##
   
