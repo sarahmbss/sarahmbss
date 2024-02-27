@@ -1,6 +1,6 @@
 ## hi there! ✨
 
-i'm sarah, a technology enthusiast graduated on information management.
+i'm sarah, a technology enthusiast with a degree on information management.
 
 - 🔎 my career on IT started with an intership on **data science**
 - ⚙ later, i changed the focus a little bit and started working as a **data engineer**
