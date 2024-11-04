@@ -4,8 +4,9 @@ i'm sarah, a technology enthusiast with a degree on information management.
 
 - 🔎 my career on IT started with an intership on **data science**
 - ⚙ later, i changed the focus a little bit and started working as a **data engineer**
-- 📌 now, i'm currently working as a **system analyst**
-- 🌱 skills i've been improving:  **clean code**, **google cloud platform**, **kubernetes**, **apache airflow**
+- 📌 for a year, i worked as **system analyst** and had the opportunity to improve my programming skills in Python
+- ⚙ now, i'm back as a **data engineer**, building crawlers and scrapers to retrieve data from websites
+- 🌱 skills i've been improving:  **clean code**, **amazon web services**, **docker**, **apache airflow**
 - 📫 how to reach me **https://www.linkedin.com/in/sarah-maria/**
 - 📕 sometimes, i write a few things on my medium account. you can check it if you want :) **https://medium.com/@sarahmbs**
 
